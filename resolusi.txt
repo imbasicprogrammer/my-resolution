@@ -1,0 +1,4 @@
+my resolution
+1. bisa bikin web sederhana
+2. bikin web form 
+3. khatam front end
